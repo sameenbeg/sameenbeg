@@ -5,5 +5,5 @@
 
 
 <!--- GitHub stats from(https://github.com/anuraghazra/github-readme-stats) -->
-[![Sameenbeg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameenbeg&show_icons=true&theme=radical)
+![Sameenbeg's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameenbeg&show_icons=true&theme=radical)
 
